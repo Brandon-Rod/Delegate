@@ -14,5 +14,6 @@
 - No third-party libraries
 
 ## Technologies Used
+- UIKit
 - UITableView
 - Protocol
